@@ -1,0 +1,423 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "event":"",
+    "place":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -8.545235,28.088121 ]
+    },
+    "properties": {
+    "event":"Needs assessment for media in Sahrawi refugee camps",
+    "place":"Tindouf, Algeria"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -7.617903,33.562482 ]
+    },
+    "properties": {
+    "event":"Interviews with journalists, keynote address at conference for media research",
+    "place":"Casablanca, Morocco"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 100.584304,13.768796 ]
+    },
+    "properties": {
+    "event":"Spoke at UNESCO conference on gender and media",
+    "place":"Bangkok, Thailand"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.0907,9.9281 ]
+    },
+    "properties": {
+    "event":"Accepted World Press Freedom Prize at UNESCO conference (also ziplined with sloths)",
+    "place":"San Jose, Costa Rica"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 104.853781,11.58942 ]
+    },
+    "properties": {
+    "event":"Interviewed journalists and covered opposition protest",
+    "place":"Phnom Penh, Cambodia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.739956,45.474944 ]
+    },
+    "properties": {
+    "event":"Delivered address at global media forum",
+    "place":"Montreal, Canada"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 32.911024,-2.501005 ]
+    },
+    "properties": {
+    "event":"Led journalists reporting on development",
+    "place":"Mwanza, Tanzania"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 39.205525,-6.773662 ]
+    },
+    "properties": {
+    "event":"Led journalists reporting on governance",
+    "place":"Dar es Salaam, Tanzania"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 15.293205,-4.399921 ]
+    },
+    "properties": {
+    "event":"Led journalists reporting on governance and elections",
+    "place":"Kinshasa, DRC"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 29.460696,0.493863 ]
+    },
+    "properties": {
+    "event":"Led journalists reporting on extremism and humanitarian issues",
+    "place":"Beni, DRC"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 29.222012,-1.666491 ]
+    },
+    "properties": {
+    "event":"Led journalists reporting on economic development",
+    "place":"Goma, DRC"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 29.23317,-1.669923 ]
+    },
+    "properties": {
+    "event":"Trained journalists in mentorship and coaching",
+    "place":"Goma, DRC"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 18.561746,4.382669 ]
+    },
+    "properties": {
+    "event":"Needs assessment for reporting project and training",
+    "place":"Bangui. CAR"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 32.570959,0.319208 ]
+    },
+    "properties": {
+    "event":"Trained journalists in security and first aid",
+    "place":"Kampala, Uganda"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 32.592932,0.254664 ]
+    },
+    "properties": {
+    "event":"Organized reporting program on food security",
+    "place":"Kampala, Uganda"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 32.291221,2.76812 ]
+    },
+    "properties": {
+    "event":"Led journalists reporting on refugee crises and conservation",
+    "place":"Gulu, Uganda"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 32.667074,0.027251 ]
+    },
+    "properties": {
+    "event":"Trained journalists in security and first aid",
+    "place":"Bulago Island, Uganda"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 30.091497,-1.976071 ]
+    },
+    "properties": {
+    "event":"Trained journalists in security and first aid",
+    "place":"Kigali, Rwanda"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 31.57106,4.86103 ]
+    },
+    "properties": {
+    "event":"Led journalists to report on development",
+    "place":"Juba, South Sudan"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -7.990034,12.595802 ]
+    },
+    "properties": {
+    "event":"Led leadership forum for journalists",
+    "place":"Bamako, Mali"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -8.016126,12.663475 ]
+    },
+    "properties": {
+    "event":"Organized reporting program on food security",
+    "place":"Bamako, Mali"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 28.301168,-15.435319 ]
+    },
+    "properties": {
+    "event":"Organized reporting program on food security",
+    "place":"Lusaka, Zambia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 28.044828,-26.196152 ]
+    },
+    "properties": {
+    "event":"Stuck in an airport for eight hours with six cranky journalists",
+    "place":"Johannesburg, S.A."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 116.361709,39.882718 ]
+    },
+    "properties": {
+    "event":"Presented the findings of my research on journalist security at the launch of my report's Mandarin publication",
+    "place":"Beijing, China"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.360138,48.184903 ]
+    },
+    "properties": {
+    "event":"Panelist at OSCE conference on digital threats against journalists",
+    "place":"Vienna, Austria"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.334355,48.851157 ]
+    },
+    "properties": {
+    "event":"Participated in World Press Freedom conference",
+    "place":"Paris, France"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.143745,46.225692 ]
+    },
+    "properties": {
+    "event":"Presented the findings of my research on journalist security at UN Office at Geneva",
+    "place":"Geneva, Switzerland"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.127561,51.529853 ]
+    },
+    "properties": {
+    "event":"Researched and edited for book projects at British Library",
+    "place":"London, UK"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.0987,52.21308 ]
+    },
+    "properties": {
+    "event":"Researched and edited for book projects at Churchill College",
+    "place":"Cambridge, UK"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.994042,38.879312 ]
+    },
+    "properties": {
+    "event":"Home base",
+    "place":"Washington, D.C. "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -151.082366,60.481425 ]
+    },
+    "properties": {
+    "event":"Incubator",
+    "place":"Soldotna, Alaska"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.771677,48.593389 ]
+    },
+    "properties": {
+    "event":"Participated in Council of Europe/European Court of Human Rights event ",
+    "place":"Strasbourg, France"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -118.413665,34.081435 ]
+    },
+    "properties": {
+    "event":"Produced Courage in Journalism Awards events",
+    "place":"Los Angeles, CA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.976943,40.751606 ]
+    },
+    "properties": {
+    "event":"Produced Courage in Journalism Awards events",
+    "place":"New York, NY"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.006062,40.71494 ]
+    },
+    "properties": {
+    "event":"Managed development of mobile app for journalist security",
+    "place":"New York, NY"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.97762,40.760709 ]
+    },
+    "properties": {
+    "event":"Organized Paley Center panel on journalist security",
+    "place":"New York, NY"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 33.023515,-2.04953 ]
+    },
+    "properties": {
+    "event":"Traveled with journalist reporting on land rights",
+    "place":"Ukerewe Island, Tanzania"
+    }
+  }
+]
+}
